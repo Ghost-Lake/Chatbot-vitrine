@@ -39,24 +39,6 @@ ProjetChatbot/
 
 ---
 
-## 🚀 Lancement
-
-```bash
-# 1. Cloner le dépôt
-git clone https://github.com/Ghost-Lake/projet-sae-s1-01.git
-cd projet-sae-s1-01/ProjetChatbot
-
-# 2. Compiler (depuis le dossier ProjetChatbot/)
-javac -d out/production/ProjetChatbot src/*.java
-
-# 3. Lancer (les fichiers .txt doivent être dans le répertoire de travail)
-java -cp out/production/ProjetChatbot Chatbot
-```
-
-> ⚠️ Les fichiers `.txt` (reponses.txt, mots-outils.txt, etc.) doivent se trouver dans le **répertoire de travail courant** au moment du lancement.
-
----
-
 ## 💬 Exemple d'utilisation
 
 ```
