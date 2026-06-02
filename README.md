@@ -102,7 +102,7 @@ ProjetChatbot/
 
 ---
 
-## 🎓 Cadre du Projet (PPP)
+## 🎓 Cadre du Projet
 
 Projet réalisé dans le cadre de la **SAE S1-01** (BUT Informatique 1ère année, IUT2 Grenoble).
 
